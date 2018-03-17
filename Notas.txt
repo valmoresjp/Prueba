@@ -1,1 +1,2 @@
-	Esta es una nota para practicar control de versiones.
+	Esta es una nota para practicar control de versiones. una mas
+	Esta es otra linea para aprender
